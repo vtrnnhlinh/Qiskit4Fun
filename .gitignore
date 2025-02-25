@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+conda-env/
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Qiskit specific (if any local data is generated)
+# Example: If you're saving simulation results or generated data
+# results/
+# data/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.swp
+*~
+
+# IDE specific files (examples)
+.idea/
+*.iml
+.vscode/
+
+# Compiled files
+*.o
+*.so
+*.dylib
+
+# Distribution files (if you're creating packages)
+dist/
+build/
+*.egg-info/
